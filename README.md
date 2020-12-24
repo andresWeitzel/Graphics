@@ -1,0 +1,2 @@
+# Graphics
+Gifs, imagenes, etc.
